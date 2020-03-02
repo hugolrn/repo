@@ -1,12 +1,12 @@
 {
   "language": "Français",
-  "startmenu.new_game": "NEW GAME",
+  "startmenu.new_game": "NOUVELLE PARTIE",
   "startmenu.multiplayer": "MULTIPLAYER",
-  "startmenu.resume_game": "RESUME GAME",
-  "startmenu.settings": "Settings",
-  "startmenu.high_score": "High Score",
-  "startmenu.throne_room": "Throne Room",
-  "startmenu.about": "About",
+  "startmenu.resume_game": "REPRENDRE LA GAME",
+  "startmenu.settings": "Paramètres",
+  "startmenu.high_score": "Meilleur Score",
+  "startmenu.throne_room": "Salle des Trophées",
+  "startmenu.about": "A propos",
 
   "news.title": "POLYTOPIA NEWS",
   "news.description": "Welcome!\n This is where we share the latest news from the Polytopia universe. Stay tuned!",
